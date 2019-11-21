@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/meuperfilId"
+        android:title="Meu perfil" />
+    <item
+        android:id="@+id/minhasavalId"
+        android:title="Minhas avaliações" />
+    <item
+        android:id="@+id/sobreId"
+        android:title="Sobre o app" />
+    <item
+        android:id="@+id/sairId"
+        android:title="Sair" />
+</menu>
